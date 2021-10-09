@@ -6,22 +6,22 @@ module.exports = {
       'Patients',
       [
         {
-          fullname: 'Alberto Dos Santos',
+          full_name: 'Alberto Dos Santos',
           plan_id: 1,
         },        {
-          fullname: 'Maria Silveira Rodrigues',
+          full_name: 'Maria Silveira Rodrigues',
           plan_id: 3,
         },
         {
-          fullname: 'Osvaldo de Andrade',
+          full_name: 'Osvaldo de Andrade',
           plan_id: 3,
         },
         {
-          fullname: 'Cristiano Ronaldo Messi',
+          full_name: 'Cristiano Ronaldo Messi',
           plan_id: 2,
         },
         {
-          fullname: 'Luis Carlos Suarez',
+          full_name: 'Luis Carlos Suarez',
           plan_id: 3,
         },
       ],
